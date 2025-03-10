@@ -1,4 +1,4 @@
-# ProjetoBuzzfeed
+# Projeto Buzzfeed
 
 🧙‍♂️ Quiz: Qual seria sua casa em Hogwarts?
 Este é um projeto de quiz interativo desenvolvido em Angular que permite aos usuários descobrirem a qual casa de Hogwarts eles pertencem. Com base em suas respostas a uma série de perguntas, o quiz determina se o usuário seria um membro da Grifinória, Sonserina, Corvinal ou Lufa-Lufa.
