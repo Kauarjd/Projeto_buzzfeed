@@ -1,27 +1,35 @@
 # ProjetoBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+🧙‍♂️ Quiz: Qual seria sua casa em Hogwarts?
+Este é um projeto de quiz interativo desenvolvido em Angular que permite aos usuários descobrirem a qual casa de Hogwarts eles pertencem. Com base em suas respostas a uma série de perguntas, o quiz determina se o usuário seria um membro da Grifinória, Sonserina, Corvinal ou Lufa-Lufa.
 
-## Development server
+Este projeto foi desenvolvido com base no angular-buzzfeed-quizz-clone, criado por Felipe Aguiar. Adaptei o projeto para o tema de Harry Potter, adicionando perguntas e resultados personalizados.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🚀 Funcionalidades
 
-## Code scaffolding
+Perguntas Dinâmicas: As perguntas são carregadas a partir de um arquivo JSON, facilitando a adição ou remoção de questões.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Resultado Personalizado: Ao final do quiz, o usuário recebe uma mensagem personalizada com a casa de Hogwarts correspondente.
 
-## Build
+Design Responsivo: O projeto é totalmente responsivo, funcionando bem em dispositivos móveis e desktops.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Botão de Reiniciar: Permite que o usuário reinicie o quiz e faça o teste novamente.
 
-## Running unit tests
+🛠️ Tecnologias Utilizadas
+Angular: Framework front-end para construção da interface do usuário.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+TypeScript: Linguagem principal para desenvolvimento do projeto.
 
-## Running end-to-end tests
+HTML/CSS: Para estruturação e estilização da aplicação.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+JSON: Armazenamento das perguntas, opções e resultados.
 
-## Further help
+🌟 Destaques
+Fácil de Personalizar: Adicione novas perguntas ou altere as existentes no arquivo JSON.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Experiência do Usuário: Design limpo e intuitivo, com feedback visual ao selecionar as opções.
+
+Divertido e Interativo: Perfeito para fãs de Harry Potter que desejam descobrir sua casa em Hogwarts.
+
+🙏 Créditos
+Este projeto foi desenvolvido com base no angular-buzzfeed-quizz-clone, criado por Felipe Aguiar. Adaptei o projeto para o tema de Harry Potter, adicionando perguntas e resultados personalizados.
